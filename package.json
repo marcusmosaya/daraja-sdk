@@ -1,0 +1,26 @@
+{
+  "name": "daraja-sdk",
+  "version": "1.0.0",
+  "description": "sdk for the developers integrating with safaricom's daraja api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcusmosaya/daraja-sdk.git"
+  },
+  "keywords": [
+    "mpesa",
+    "daraja",
+    "api",
+    "sdk",
+    "rest"
+  ],
+  "author": "marcus mosaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcusmosaya/daraja-sdk/issues"
+  },
+  "homepage": "https://github.com/marcusmosaya/daraja-sdk#readme"
+}
