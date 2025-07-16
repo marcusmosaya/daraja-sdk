@@ -38,9 +38,9 @@ The Node.js programming language runtime installed.
 ## Installation 💻
 
 ```bash
-npm install mpesa-api-sdk
+npm install daraja-sdk
 ```
-Getting Started 🚀
+## Getting Started 🚀
 
 Import the SDK:
 ```javascript
