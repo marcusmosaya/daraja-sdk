@@ -83,18 +83,20 @@ async ()=>{
 }
 ```
 ## Documentation 📚
-For comprehensive details on all API endpoints, request/response formats, and advanced configurations, please refer to:
+For comprehensive details on all API endpoints, request/response formats, please refer to:
 
 Safaricom Daraja Portal Documentation
 
-Link to this SDK's specific documentation (if available)
 
 ## Contributing 🤝
-Contributions are welcome! Please read our CONTRIBUTING.md for guidelines on how to contribute to this project.
+Contributions are welcome.
 
 ## Support ❓
 If you encounter any issues, have questions, or need assistance, please:
-
-Open an issue on the GitHub repository.
-
-Visit the Safaricom Daraja Developer Forum for community support.
+```html
+<ul>
+    
+    <li>Open an issue on the GitHub repository.</li>
+    <li>Visit the Safaricom Daraja Developer Forum for community support.</li>
+</ul>
+```
