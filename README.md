@@ -93,10 +93,8 @@ Contributions are welcome.
 
 ## Support ❓
 If you encounter any issues, have questions, or need assistance, please:
-```html
-<ul>
-    
+
+<ul>    
     <li>Open an issue on the GitHub repository.</li>
     <li>Visit the Safaricom Daraja Developer Forum for community support.</li>
 </ul>
-```
