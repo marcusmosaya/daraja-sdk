@@ -1,6 +1,6 @@
 {
   "name": "daraja-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sdk for the developers integrating with safaricom's daraja api",
   "main": "index.js",
   "scripts": {
